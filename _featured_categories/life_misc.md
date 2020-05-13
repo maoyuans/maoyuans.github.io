@@ -3,13 +3,12 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Life and Miscellanous
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: life_misc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Other entries that I think do not belong elsewhere. Life updates, event commentaries, jokes, you name it.
 ---
