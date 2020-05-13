@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Life & Miscellanous
+title: Misc
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: misc
