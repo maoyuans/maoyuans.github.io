@@ -3,7 +3,7 @@ layout: post
 title: 被自然所囚禁的日子
 description: >
   失去了物理意义上的社会交互的人，总还是会有一种若有所失的感觉啊。
-categories: [misc]
+categories: [insomnia]
 ---
 
 用这么一篇文章起这个blog的头，感觉还是相当的微妙啊。
