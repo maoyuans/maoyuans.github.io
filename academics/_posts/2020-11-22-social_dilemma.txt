@@ -1,0 +1,10 @@
+---
+layout: post
+title: 社交媒体与信息道德
+description: >
+  在家人的推荐下去看了Netflix的纪录片"The social dilemma"，里面的很多观点让我感触颇深。人类的底线之一应当是不去作恶，但是这不代表我们作出的行动不会为恶。思想，知识，行为，科技，皆是如此。
+categories: [academics, misc]
+tags: [academics, misc]
+---
+*"Nothing vast enters the life of mortals without a curse."*
+*                                         - Sophocles*
