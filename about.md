@@ -18,7 +18,7 @@ hide_description: true
 # TODO
 image: /assets/img/blog/hydejack-8.png
 ---
-Updated 21:00 12/21/2021. Is this the right version?
+Updated 21:30 12/21/2021. Is this the right version?
 
 ---
 
