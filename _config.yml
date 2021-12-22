@@ -16,7 +16,7 @@ url:                   https://maoyuans.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  zh-cn
+lang:                  en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Maoyuan 'Raymond' Song
@@ -40,7 +40,7 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Raymond Song
+  name:                Maoyuan 'Raymond' Song
   email:               MaoyuanRS@gmail.com
   # Used by `jekyll-seo-tag`:
   social:
@@ -50,11 +50,13 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Academics
-    url:               /academics/
-  - title:             Artistics
-    url:               /artistics/
-  - title:             Misc
+  - title:             Blog
+    url:               /blog/
+  - title:             Publication
+    url:               /publication/
+  - title:             Teaching
+    url:               /teaching/
+  - title:             Miscelleanous
     url:               /misc/
 
 # Add links to the footer.
