@@ -15,6 +15,12 @@ description: >
 
 ---
 
+### 2022
+
+*I plan to write about something every Sunday, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
+
+### 2021
+
 ### 2020
 
 **[Algorithm, Art, and a Lack Thereof](/blog/2020-06-11.md)**. Jun 11 2020.
