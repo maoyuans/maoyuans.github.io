@@ -19,6 +19,8 @@ description: >
 
 *I plan to write about something every Sunday, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
 
+**[写作 - Writing](/blog/2022-01-02.md)**. Jan 02 2022.
+
 ### 2021
 
 ### 2020

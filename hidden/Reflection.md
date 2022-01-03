@@ -23,7 +23,7 @@ The figure lets out a nervous chuckle. "Sir, just on my way home, nothing more t
 
 "On your way home? To your home or to someone elses? Hey, go take off his hood." He signals the other guard, "If you can't explain yourself better than that, you're coming with us, and I'll have you know..."
 
-The hood drops, revealing a young blonde man, with jade green eyes, reflecting the silvery moonlight. He waves his hand slight in the air, and puts on an awkward yet beguiling smile. "Yeah, uh..."
+The hood drops, revealing a young blonde man, with jade green eyes, reflecting the silvery moonlight. He waves his hand slightly in the air, and puts on an awkward yet beguiling smile. "Yeah, uh..."
 
 The guard look him up and down, and taps his forehead. "Hey, ain't you... that Threxia Junior? Which would explain what you're doing out here..."
 
