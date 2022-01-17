@@ -17,7 +17,9 @@ description: >
 
 ### 2022
 
-*I plan to write about something every Sunday, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
+*I plan to write about something regularly, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
+
+**[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md)**. Jan 16 2022.
 
 **[写作 - Writing](/blog/2022-01-02.md)**. Jan 02 2022.
 
