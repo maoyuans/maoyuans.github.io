@@ -19,13 +19,11 @@ description: >
 
 *I plan to write about something regularly, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
 
-- **[人性 - Humanity, English ver.](/blog/2022-07-31-eng.md)**. Aug 5 2022.
-
-- **[人性 - Humanity](/blog/2022-07-31.md)**. Jul 31 2022.
+- **[人性 - Humanity](/blog/2022-07-31.md) ([English ver.](/blog/2022-07-31-eng.md))**. Jul 31 2022.
 
 - **[创作与创作欲 - Creation and Creative Desire](/blog/2022-01-16.md)**. Jan 16 2022.
 
-- **[写作 - Writing](/blog/2022-01-02.md)**. Jan 02 2022.
+- **[写作 - Writing](/blog/2022-01-02.md) ([English ver.](/blog/2022-01-02-eng.md))**. Jan 02 2022.
 
 ### 2021
 
