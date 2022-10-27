@@ -19,10 +19,8 @@ nav_order: 2
 
 ## 2022
 
-- **Learning-Augmented Algorithms for Online Linear and Semidefinite Programming**. 
-
-Elena Grigorescu, Young-San Lin, Sandeep Silwal, *Maoyuan Song*, Samson Zhou.
-
+- **Learning-Augmented Algorithms for Online Linear and Semidefinite Programming**.  
+Elena Grigorescu, Young-San Lin, Sandeep Silwal, *Maoyuan Song*, Samson Zhou.  
 NeurIPS 2022. [[arXiv]](https://arxiv.org/abs/2209.10614)
 
 ## 2020
