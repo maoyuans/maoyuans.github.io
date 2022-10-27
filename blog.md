@@ -1,19 +1,12 @@
 ---
-# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
-# You can change it to the regular `page` layout if you want.
-layout: page
-
-# The title of the page.
+layout: default
 title: Blog
-
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
-  I write haphazardly. Sometimes academic, sometimes not. Feel free to take a look.
-
-# You can show the description on the page by deleting this line:
-
+nav_order: 4
 ---
+
+# Blog
+
+I write haphazardly, about topics academic or philosophical in nature. Feel free to take a look.
 
 ### 2022
 

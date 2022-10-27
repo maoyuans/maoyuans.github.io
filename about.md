@@ -1,29 +1,17 @@
 ---
-# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
-# You can change it to the regular `page` layout if you want.
-layout: about
-
-# The title of the page.
+layout: default
 title: About
-
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-# You can show the description on the page by deleting this line:
-hide_description: true
-
-# TODO
-image: /assets/img/blog/hydejack-8.png
+nav_order: 1
+permalink: /
 ---
 
-*I am not an avid selfie-taker. There will be photos soon. I promise.*
+*I am not an avid selfie-taker. There will be photos soon.*
 
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory.
+# About
+
+I am a PhD student in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, I describe my field of interest as 'classical algorithms that can facilitate or be facilitated by machine learning'.
 
 Prior to joining Purdue, I received my master's degree in computer science at [Carnegie Mellon University](https://www.cs.cmu.edu/) in May 2020. I also received my bachelor's degree in computer science at Carnegie Mellon University in May 2019, with a minor in discrete mathematics.
 
@@ -35,4 +23,4 @@ In my free time, I take interest in game design and storytelling. I am in partic
 
 ---
 
-*Last updated at 15:20 01/19/2022. Is this the right version?*
+*Last updated at 16:00 10/27/2022. Is this the right version?*
