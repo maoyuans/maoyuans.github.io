@@ -14,18 +14,16 @@ nav_order: 2
 ## In Submission
 
 - **Neighborhood Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $$1 + \alpha$$ Moments**. 
-
   Trung Dang, Jasper C.H. Lee, *Maoyuan Song*, Paul Valiant.
-
   In Submission.
 
 ## 2022
 
 - **Learning-Augmented Algorithms for Online Linear and Semidefinite Programming**. 
 
-  Elena Grigorescu, Young-San Lin, Sandeep Silwal, *Maoyuan Song*, Samson Zhou.
+Elena Grigorescu, Young-San Lin, Sandeep Silwal, *Maoyuan Song*, Samson Zhou.
 
-  NeurIPS 2022. [[arXiv]](https://arxiv.org/abs/2209.10614)
+NeurIPS 2022. [[arXiv]](https://arxiv.org/abs/2209.10614)
 
 ## 2020
 
