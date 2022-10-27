@@ -21,20 +21,6 @@ I am also passionate about education. I worked as a teaching assistant for multi
 
 In my free time, I take interest in game design and storytelling. I am in particular interested in exploring and experiencing video game as a media of art, and various narrative techniques of independent games. Currently, I am designing a rogue-like deck-building dungeon crawler game with a friend. As a hobbyist writer and storyteller, I am writing a homebrew world setting and campaigns for Dungeons and Dragons (D&D), and am hosting several games for my friends.
 
-## Contact
-
-Email: 
-- MaoyuanRS (at) gmail (dot) com
-- song683 (at) purdue (dot) edu
-
-Office (I'm mostly working from home): 
-
-2161-4 Lawson Computer Science Building,
-
-305 N. University St.
-
-West Lafayette, IN 47907
-
 
 ---
 
