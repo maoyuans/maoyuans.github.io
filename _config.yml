@@ -33,6 +33,14 @@ search:
   # Supports true or false (default)
   button: true
 
+# External navigation links
+nav_external_links:
+  - title: Twitter
+    url: https://twitter.com/maoyuans
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?hl=en&user=1W8rVegAAAAJ&view_op=list_works&sortby=pubdate
+
+
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
