@@ -33,13 +33,20 @@ search:
   # Supports true or false (default)
   button: true
 
+# Aux links for the upper right navigation
+aux_links:
+  "Curriculum Vitae":
+    - "https://maoyuans.github.io/cv/cv.pdf"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 # External navigation links
 nav_external_links:
   - title: Twitter
     url: https://twitter.com/maoyuans
   - title: Google Scholar
     url: https://scholar.google.com/citations?hl=en&user=1W8rVegAAAAJ&view_op=list_works&sortby=pubdate
-
 
 # Footer content
 # appears at the bottom of every page's main content

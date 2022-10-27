@@ -28,11 +28,14 @@ Email:
 - song683 (at) purdue (dot) edu
 
 Office (I'm mostly working from home): 
+
 2161-4 Lawson Computer Science Building,
+
 305 N. University St.
+
 West Lafayette, IN 47907
 
 
 ---
 
-*Last updated at 16:00 10/27/2022. Is this the right version?*
+*Last updated at 17:30 10/27/2022. Is this the right version?*
