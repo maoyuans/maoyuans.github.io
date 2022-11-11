@@ -1,18 +1,190 @@
-\documentclass[12pt]{article}
-\usepackage{geometry}                
-\geometry{letterpaper}
-\usepackage{graphicx}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{amsthm}
-\usepackage{textcomp}
-\usepackage{epstopdf}
-\usepackage{fullpage}
-\usepackage{color}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[margin, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+
+\usepackage{helvet} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+
+
 \usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\urlstyle{same}
+
+\usepackage{etaremune}
+
+\setlength{\textwidth}{5.1in} % Text width of the document
+
 
 \begin{document}
 
-I'm working on it.
+%----------------------------------------------------------------------------------------
+%	NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------
 
+\moveleft.5\hoffset\centerline{\huge\bf Maoyuan `Raymond' Song} % Your name at the top
+ 
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+ 
+\moveleft.5\hoffset\centerline{Department of Computer Science, Purdue University)} % Your address
+\moveleft.5\hoffset\centerline{305 N. University St, West Lafayette, IN 47907}
+
+%----------------------------------------------------------------------------------------
+
+\begin{resume}
+
+\section{CONTACT}
+\emph{Email}:
+
+\begin{itemize}
+\item MaoyuanRS (at) gmail (dot) com \emph{(Preferred)}
+\item song683 (at) purdue (dot) edu
+\end{itemize}
+\emph{Personal Page}: \href{https://maoyuans.github.io}{maoyuans.github.io}
+
+ 
+\section{RESEARCH \\ INTERESTS}  
+
+Theoretical computer science, specifically: Online algorithms; Learning-augmented algorithms; Sublinear-time and sublinear-space algorithms; Computational complexity; Learning theory.
+
+ 
+\section{EDUCATION}
+
+{\bf Ph.D. Student in Computer Science} \hfill August 2020 - Present \\
+Purdue University, West Lafayette, IN
+
+\begin{itemize}
+\item Advisor: Elena Grigorescu, Paul Valiant.
+\end{itemize} 
+
+{\bf M.S. in Computer Science} \hfill May 2019 - May 2020 \\
+Carnegie Mellon University, Pittsburgh, PA
+
+\begin{itemize}
+\item Advisor: Carleton Kingsford.
+\item Thesis: Linear Time Addition of Fibonacci Encodings.
+\end{itemize} 
+
+{\bf B.S. in Computer Science} \hfill Aug 2015 - May 2020 \\
+Carnegie Mellon University, Pittsburgh, PA
+
+\begin{itemize}
+\item Minor: Discrete Mathematics and Logic.
+\item Graduated with University Honors.
+\end{itemize} 
+
+
+\section{EMPLOYMENT}
+
+{\bf Senior Project Member, Content Manager} \hfill January 2018 - May 2020 \\
+Carnegie Mellon University Computer Science Academy, Pittsburgh, PA
+
+\begin{itemize}
+\item Participated as a senior member in the development of CMU Computer Science Academy, a university-sponsored non-profit organization aiming to provide accessible and effective experiences with CS for highschool students and educators.
+\item Created and managed contents including student exercises, quality assurance, and support resources for educators.
+\end{itemize} 
+
+
+\section{PUBLICATIONS}
+\begin{etaremune}
+\item Neighborhood Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, Beyond $1 + \alpha$ Moments.\\
+Trung Dang, Jasper C.H. Lee, {\bf Maoyuan Song}, Paul Valiant.\\
+\emph{In submission.}
+\item Learning-Augmented Algorithms for Online Linear and Semidefinite Programming.\\
+Elena Grigorescu, Young-San Lin, Sandeep Silwal, {\bf Maoyuan Song}, Samson Zhou.\\
+\emph{Conference on Neural Information Processing Systems (NeurIPS)} (2022). Selected for spotlight presentation.
+\item Linear Time Addition of Fibonacci Encodings.\\
+{\bf Maoyuan (Raymond) Song}.\\
+\emph{Master's Thesis} (2020). 
+\item Application of Convolutional Neural Networks in Accent Identification.\\
+Kevin Chionh, {\bf Maoyuan Song}, Yue Yin.\\
+\emph{Project Report} (2018).
+\end{etaremune}
+
+
+\section{TEACHING}
+
+{\bf Purdue University, Department of Computer Science}\\
+Graduate Teaching Assistant
+
+\begin{itemize}
+\item CS588 Randomized Algorithms \hfill Spring 2022
+\item CS584 Theory of Computation \hfill Fall 2021
+\item CS381 Introduction to the Analysis of Algorithms \hfill Spring 2021
+\item CS251 Data Structures and Algorithms \hfill Fall 2020
+\end{itemize}
+{\bf Carnegie Mellon University, Department of Computer Science}\\
+Graduate Teaching Assistant
+
+\begin{itemize}
+\item 15-451 Algorithm Design and Analysis \hfill Spring 2020, Fall 2019
+\end{itemize}
+
+\section{AWARDS}
+\begin{itemize}
+\item Supported by {\bf Purdue Research Fundation Ross-Lynn Research Scholars Grant}, Fall 2022.
+\end{itemize}
+
+\section{PROFESSIONAL \\ SERVICE}
+
+{\bf External Conference Reviewer}
+
+\begin{itemize}
+\item Innovations in Theoretical Computer Science (ITCS) 2023, 2022.
+\item Conference on Neural Information Processing Systems (NeurIPS) 2022, 2021.
+\item International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC) 2022.
+\item Journal of Artificial Intelligence Research (JAIR) 2022.
+\end{itemize}
+{\bf Organizer}
+
+\begin{itemize}
+\item Theoretical Computer Science Seminar at Purdue, Fall 2022.
+\item Advanced Algorithm Reading Group at Purdue, Fall 2020.
+\end{itemize}
+
+\section{TALKS and \\ PRESENTATIONS}
+\begin{itemize}
+\item Learning-Augmented Algorithms for Online General Covering LPs.\\
+Theory Reading Group at Purdue, November 2022.
+\item On `The Primal-Dual Method for Learning Augmented Algorithms'.\\
+Theory Reading Group at Purdue, February 2022.
+\item On `PROPm Allocations of Indivisible Goods to Multiple Agents'.\\
+Theory Reading Group at Purdue, November 2021.
+\item On `Online Facility Location Problem with Recourse'.\\
+Theory Reading Group at Purdue, March 2021.
+\item Fields and Polynomials, based on 15-751 TCS Toolkit.\\
+Advanced Algorithm Reading Group at Purdue, October 2020.
+\item Fast Multiplication using Discrete Fourier Transform, based on 15-751 TCS Toolkit.\\
+Advanced Algorithm Reading Group at Purdue, September 2020.
+\item Linear Time Addition of Fibonacci Encodings.\\
+Master's Thesis Defense, April 2020.
+\end{itemize}
+
+
+\end{resume}
 \end{document}
