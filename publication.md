@@ -13,7 +13,7 @@ nav_order: 2
 
 ## In Submission
 
-- **Neighborhood Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $$1 + \alpha$$ Moments**.  
+- **Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $$1 + \alpha$$ Moments**.  
 Trung Dang, Jasper C.H. Lee, *Maoyuan Song*, Paul Valiant.  
 In Submission.
 
