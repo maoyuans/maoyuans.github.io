@@ -8,6 +8,10 @@ nav_order: 4
 
 I write haphazardly, about topics academic or philosophical in nature. Feel free to take a look.
 
+### 2023
+
+- **[人类观察 - Human Observation](/blog/2023-04-12.md)**. Apr 13 2023.
+
 ### 2022
 
 *I plan to write about something regularly, to keep up this habit of documenting my thoughts. Set aside two hours, find a topic or two, and write down what goes through my mind as much as I can. Most of them will be done in Chinese.*
