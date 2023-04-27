@@ -10,7 +10,7 @@ I write haphazardly, about topics academic or philosophical in nature. Feel free
 
 ### 2023
 
-- **[人类观察 - Human Observation](/blog/2023-04-12.md)**. Apr 13 2023.
+- **[人类观察 - Human Observation](/blog/2023-04-12.md) ([English ver.](/blog/2023-04-12-eng.md))**. Apr 13 2023.
 
 ### 2022
 
