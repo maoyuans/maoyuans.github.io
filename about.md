@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-*I am not an avid selfie-taker. There will be photos soon.*
+![](assets/img/photosmall.jpeg)
+
+July 2023. Kenai Fjords National Park, Alaska.
 
 ---
 
