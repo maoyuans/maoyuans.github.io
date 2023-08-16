@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  17 APR 2023 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  15 AUG 2023 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -287,6 +287,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 59.
+
+Overfull \hbox (23.28447pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/10 Online al-go-rithms; Be-yond worst-case anal-y-sis; Learning-
+augmented al-go-rithms; Sublinear-
+ []
+
 [1
 
 {C:/Users/maoyuans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (cv.a
@@ -310,7 +316,7 @@ KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/maoyuans/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/maoyuans/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:\Users\maoyuans\Documents\GitHub\maoyuans.github.io\cv\cv.p
-df (2 pages, 84239 bytes).
+df (2 pages, 84490 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
