@@ -8,7 +8,7 @@ nav_exclude: false
 
 # People
 
-I like people. Here are some people I especially like, in no particular order.
+I like people. Here are some people I especially like, non-exhaustive, and in no particular order.
 
 ## Friends
 
