@@ -26,6 +26,6 @@ nav_exclude: false
 
 ---
 
-> Physical media is almost a Fahrenheit 451 (where people memorized entire books and thus became the book they loved) level of responsibility. If you own a great 4K HD, Blu-ray, DVD etc etc of a film or films you love... you are the custodian of those films for generations to come.
+> Physical media is almost a Fahrenheit 451 (where people memorized entire books and thus became the book they loved) level of responsibility. If you own a great 4K HD, Blu-ray, DVD etc of a film or films you love... you are the custodian of those films for generations to come.
 
 -- **Guillermo del Toro**, on content streaming services.
