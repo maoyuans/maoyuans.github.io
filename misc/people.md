@@ -18,7 +18,7 @@ Feel free to remind me if I missed anyone.*
 <details markdown="block">
 <summary>Expand</summary>
 
-- [Boxiang 'Shawn' Lyu](https://voices.uchicago.edu/blyu/)
+- [Boxiang 'Shawn' Lyu](https://www.linkedin.com/in/boxiang-lyu)
 - [Yixiu Zhao](https://neuroscience.stanford.edu/people/yixiu-zhao)
 - [Zhiyang He](https://math.mit.edu/directory/profile.html?pid=2308)
 - [Guotong Sun](https://physics.wustl.edu/people/guotong-sun)
@@ -30,7 +30,7 @@ Feel free to remind me if I missed anyone.*
 - [Hang 'Hesper' Yin](https://yhesper.github.io/)
 - [Hanyan Wang](https://apb.ucla.edu/contacts/meet-the-team/hanyan-wang)
 - [Xiaohan Li](https://www.dundee.ac.uk/people/xiaohan-li)
-- [dedztbh](https://github.com/dedztbh)
+- [Peiqi 'dedztbh' Liu](https://github.com/dedztbh)
 - [Zhengyi Wang](https://www.artstation.com/rangerwang)
 - [Junhan Kong](https://junhankong.com/)
 - [Yiqian Wang](https://yiqian-wang.github.io/)
@@ -50,7 +50,7 @@ Feel free to remind me if I missed anyone.*
 - [Sandeep Silwal](https://sandeepsilwal.com/)
 - [Jasper Lee](https://jasperchlee.github.io/)
 - [Trung Dang](https://kuroni.github.io/)
-- Nithish Kumar
+- [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar)
 - Shreya Nasa
 - [Walt McKelvie](https://www.waltmckelvie.com/)
 - [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/)

@@ -13,11 +13,11 @@ July 2023. Kenai Fjords National Park, Alaska.
 
 # About
 
-I am a PhD student in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Dr. Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Dr. Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
+I am a PhD student in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
 
 My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, I describe my field of interest as 'classical algorithms that can facilitate or be facilitated by machine learning'.
 
-Prior to joining Purdue, I received my master's degree in computer science at [Carnegie Mellon University](https://www.cs.cmu.edu/) in May 2020, advised by [Dr. Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/). I also received my bachelor's degree in computer science at Carnegie Mellon University in May 2019, with a minor in discrete mathematics.
+Prior to joining Purdue, I received my master's degree in computer science at [Carnegie Mellon University](https://www.cs.cmu.edu/) in May 2020, advised by [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/). I also received my bachelor's degree in computer science at Carnegie Mellon University in May 2019, with a minor in discrete mathematics.
 
 I find algorithmic science a fascinating subject, and often analogize it to architecture. Both involves constructing complex structure with simple building blocks, giving them utility and meaning in whole. I aspire to showcase this beauty and elegance of algorithmic science to others.
 
