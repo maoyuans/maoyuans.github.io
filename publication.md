@@ -15,7 +15,7 @@ nav_order: 2
 
 - **Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $$1 + \alpha$$ Moments**.  
 Trung Dang, Jasper C.H. Lee, *Maoyuan Song*, Paul Valiant.  
-NeurIPS 2023.
+NeurIPS 2023. [[arXiv]](https://arxiv.org/abs/2311.12784)
 
 ## 2022
 

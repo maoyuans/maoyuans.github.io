@@ -8,6 +8,10 @@ nav_order: 4
 
 I write haphazardly, about topics academic or philosophical in nature. Feel free to take a look.
 
+### 2024
+
+- **[(Fahrenheit) 451](/blog/2024-02-26.md)**, a (book) review. Feb 27 2024.
+
 ### 2023
 
 - **[人类观察 - Human Observation](/blog/2023-04-12.md) ([English ver.](/blog/2023-04-12-eng.md))**. Apr 13 2023.
