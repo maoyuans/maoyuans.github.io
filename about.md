@@ -13,7 +13,7 @@ July 2023. Kenai Fjords National Park, Alaska.
 
 # About
 
-I am a PhD student in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
+I am a PhD candidate in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
 
 My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, I describe my field of interest as 'classical algorithms that can facilitate or be facilitated by machine learning'.
 
