@@ -29,3 +29,13 @@ nav_exclude: false
 > Physical media is almost a Fahrenheit 451 (where people memorized entire books and thus became the book they loved) level of responsibility. If you own a great 4K HD, Blu-ray, DVD etc of a film or films you love... you are the custodian of those films for generations to come.
 
 -- **Guillermo del Toro**, on content streaming services.
+
+---
+
+> Most people don't spend a lot of time thinking about poetry. Right? They have a life to live and they're not really concerned with Allen Ginsberg's poems, or anybody's poems, until their father dies, they go to a funeral, you lose a child, somebody breaks your heart, they don't love you anymore, and all of a sudden, you're desperate for making sense out of this life, and "Has anybody ever felt this bad before? How did they come out of this cloud?" 
+
+> Or the inverse - something great. You meet somebody and your heart explodes. You love them so much you can't even see straight. You know, you're dizzy. "Did anybody feel like this before? What is happening to me?"
+
+> And that's when art's not a luxury, it's actually sustenance. We need it.
+
+-- **Ethan Hawke**, *Give your self permission to be creative, TED*.
