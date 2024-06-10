@@ -11,6 +11,16 @@ nav_order: 2
 
 # Publication
 
+## 2024
+
+- **A Simple Learning-Augmented Algorithm for Online Packing with Concave Objectives**.
+Elena Grigorescu, Young-San Lin, *Maoyuan Song*.
+In submission. [[arXiv]](https://arxiv.org/abs/2406.03574)
+
+- **All-Purpose Mean Estimation over $$\mathbb{R}$$: Optimal Sub-Gaussianity with Outlier Robustness and Low Moments Performance**.
+Jasper C.H. Lee, Walter McKelvie, *Maoyuan Song*, Paul Valiant.
+In submission.
+
 ## 2023
 
 - **Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian, and Beyond $$1 + \alpha$$ Moments**.  
