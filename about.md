@@ -15,7 +15,7 @@ July 2023. Kenai Fjords National Park, Alaska.
 
 I am a PhD candidate in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
 
-My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, I describe my field of interest as 'classical algorithms that can facilitate or be facilitated by machine learning'.
+My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, recent projects concern [learning-augmented algorithms](https://algorithms-with-predictions.github.io/) and statistical mean estimation. I liek to describe my field of interest as "classical algorithms that can facilitate or be facilitated by machine learning".
 
 Prior to joining Purdue, I received my master's degree in computer science at [Carnegie Mellon University](https://www.cs.cmu.edu/) in May 2020, advised by [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/). I also received my bachelor's degree in computer science at Carnegie Mellon University in May 2019, with a minor in discrete mathematics.
 
@@ -28,4 +28,4 @@ In my free time, I take interest in game design and storytelling. I am in partic
 
 ---
 
-*Last updated at 01:14 02/27/2024.*
+*Last updated at 22:48 07/09/2024.*
