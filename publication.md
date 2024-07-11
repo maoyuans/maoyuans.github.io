@@ -13,6 +13,10 @@ nav_order: 2
 
 ## 2024
 
+- **Learning-Augmented Algorithms for Online Covering Programs with Convex Objectives**.  
+Elena Grigorescu, Young-San Lin, *Maoyuan Song*.
+In submission.
+
 - **A Simple Learning-Augmented Algorithm for Online Packing with Concave Objectives**.  
 Elena Grigorescu, Young-San Lin, *Maoyuan Song*.  
 In submission. [[arXiv]](https://arxiv.org/abs/2406.03574)
