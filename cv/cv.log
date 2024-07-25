@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  10 JUL 2024 19:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  25 JUL 2024 12:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -383,7 +383,7 @@ Here is how much of TeX's memory you used:
  30739 multiletter control sequences out of 15000+600000
  473158 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,323b,582s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,397b,576s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\maoyuans\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1000.pk><C:/Users/maoyuans/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/maoyuans/AppData/Local/Programs/MiKTeX/fonts/t
@@ -394,7 +394,7 @@ pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users
 /maoyuans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msb
 m10.pfb>
 Output written on C:\Users\maoyuans\Documents\GitHub\maoyuans.github.io\cv\cv.p
-df (3 pages, 90182 bytes).
+df (3 pages, 91022 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
