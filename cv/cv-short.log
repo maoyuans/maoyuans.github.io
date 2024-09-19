@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  8 SEP 2024 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  28 AUG 2024 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/maoyuans/Documents/GitHub/maoyuans.github.io/cv/cv.tex
-(C:/Users/maoyuans/Documents/GitHub/maoyuans.github.io/cv/cv.tex
+**C:/Users/maoyuans/Documents/GitHub/maoyuans.github.io/cv/cv-short.tex
+(C:/Users/maoyuans/Documents/GitHub/maoyuans.github.io/cv/cv-short.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (res.cls
+L3 programming layer <2022-09-28> (res-short.cls
 Document Style `res' <26 Sep 89>.
-Document Class: res 2000/05/19 v1.4b Resume class
+Document Class: res-short 2000/05/19 v1.4b Resume class
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -304,27 +304,27 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [10pt].
 
-(cv.aux)
-\openout1 = `cv.aux'.
+(cv-short.aux)
+\openout1 = `cv-short.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
@@ -355,35 +355,46 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
 tx))
-Package hyperref Info: Link coloring ON on input line 44.
-(cv.out) (cv.out)
+Package hyperref Info: Link coloring ON on input line 47.
+(cv-short.out) (cv-short.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `cv-short.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
 
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
 
 (C:\Users\maoyuans\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (1.3202pt too wide) in paragraph at lines 71--72
+[]\OT1/cmr/m/n/10 Online al-go-rithms; Learning-augmented al-go-rithms; Subline
+ar-time and sublinear-space al-go-rithms;
+ []
 
-{C:/Users/maoyuans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (
-cv.aux)
-Package rerunfilecheck Info: File `cv.out' has not changed.
+
+Overfull \vbox (28.90755pt too high) has occurred while \output is active []
+
+[1
+
+{C:/Users/maoyuans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \vbox (28.90755pt too high) has occurred while \output is active []
+
+[2] (cv-short.aux)
+Package rerunfilecheck Info: File `cv-short.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9474 strings out of 475385
- 149589 string characters out of 2775490
- 493901 words of memory out of 3000000
+ 9473 strings out of 475385
+ 149817 string characters out of 2775490
+ 494943 words of memory out of 3000000
  30739 multiletter control sequences out of 15000+600000
  473158 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,397b,576s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,410b,568s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\maoyuans\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1000.pk><C:/Users/maoyuans/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/maoyuans/AppData/Local/Programs/MiKTeX/fonts/t
@@ -393,10 +404,10 @@ KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/maoyuans/AppData/Local
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users
 /maoyuans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msb
 m10.pfb>
-Output written on C:\Users\maoyuans\Documents\GitHub\maoyuans.github.io\cv\cv.p
-df (3 pages, 94783 bytes).
+Output written on C:\Users\maoyuans\Documents\GitHub\maoyuans.github.io\cv\cv-s
+hort.pdf (2 pages, 92849 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

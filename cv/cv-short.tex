@@ -20,7 +20,7 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[margin, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+\documentclass[margin, 10pt]{res-short} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
 
 \usepackage{helvet} % Default font is the helvetica postscript font
 %\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
@@ -39,7 +39,10 @@
 \usepackage{etaremune,amsmath,amssymb}
 
 \setlength{\textwidth}{5.1in} % Text width of the document
+%\setlength{\sectionskip}{.2in}
 
+\newsectionwidth{1.4in}
+\hoffset 1in
 
 \begin{document}
 
@@ -47,19 +50,19 @@
 %	NAME AND ADDRESS SECTION
 %----------------------------------------------------------------------------------------
 
-\moveleft.5\hoffset\centerline{\huge\bf Maoyuan `Raymond' Song} % Your name at the top
+\moveleft.7\hoffset\centerline{\huge\bf Maoyuan `Raymond' Song} % Your name at the top
  
-\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+\moveleft\hoffset\vbox{\hrule width 0.9\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
  
-\moveleft.5\hoffset\centerline{Department of Computer Science, Purdue University} % Your address
-\moveleft.5\hoffset\centerline{305 N. University St, West Lafayette, IN 47907}
+\moveleft.7\hoffset\centerline{Department of Computer Science, Purdue University} % Your address
+\moveleft.7\hoffset\centerline{305 N. University St, West Lafayette, IN 47907}
 
 %----------------------------------------------------------------------------------------
 
 \begin{resume}
 
 \section{CONTACT}
-\emph{Email}: MaoyuanRS (at) gmail (dot) com\\
+\emph{Email}: MaoyuanRS@gmail.com\\
 \emph{Personal Page}: \href{https://maoyuans.github.io}{maoyuans.github.io}
 
  
@@ -67,33 +70,31 @@
 
 Online algorithms; Learning-augmented algorithms; Sublinear-time and sublinear-space algorithms; Statistical estimation; Computational complexity; Beyond worst-case analysis; Learning theory.
 
-Broadly, the intersection of machine learning, artificial intelligence, and classical algorithms: How to use classical algorithms to augment machine learning and artificial intelligence, and how to use machine learning methods to facilitate classical algorithms, to achieve fairness, efficiency, and reliability.
+I am interested in the intersection of machine learning, artificial intelligence, and classical algorithms: How to use classical algorithms to augment machine learning and artificial intelligence, and how to use machine learning methods to facilitate classical algorithms, to solve theoretical and practical challenges.
+
+\section{SKILLS}
+
+{\bf Programming Languages:} Python, C, C++, LaTeX, Java, Git.\\
+{\bf Languages:} English (Fluent), Mandarin Chinese (Native).
  
 \section{EDUCATION}
 
-{\bf Purdue University} \hfill West Lafayette, IN\\
-{\it Ph.D. Candidate in Computer Science} \hfill August 2020 - Present
+{\bf Purdue University} \hfill West Lafayette, IN \\
+\emph{Ph.D. in Computer Science} \hfill August 2020 - Present\\
+Advised by: Elena Grigorescu and Paul Valiant.\\
+Relevant Coursework: Machine Learning Theory, Cryptography, Sublinear Algorithms, Randomized Algorithms, Theory of Computation.
 
-\begin{itemize}
-\item Advisors: Elena Grigorescu, Paul Valiant.
-\item Preliminary examination passed, planning to graduate on May 2025.
-\end{itemize} 
+{\bf Carnegie Mellon University} \hfill Pittsburgh, PA \\
+\emph{M.S. in Computer Science} \hfill May 2019 - May 2020 \\
+Advised by: Carleton Kingsford.\\
+Thesis Title: Linear Time Addition of Fibonacci Encodings.
 
-{\bf Carnegie Mellon University} \hfill Pittsburgh, PA\\
-{\it M.S. in Computer Science} \hfill May 2019 - May 2020 
+{\bf Carnegie Mellon University} \hfill Pittsburgh, PA \\
+\emph{B.S. in Computer Science} \hfill August 2015 - May 2019 \\
+Minor in Discrete Math \& Logic, graduated with University Honors. \\
+Relevant Coursework: Algorithm Design \& Analysis, Machine Learning (PhD), Spectral Graph Theory, Set Theory, Extremal Combinatorics.
 
-\begin{itemize}
-\item Advisor: Carleton Kingsford. \hspace{-2em}
-\item Thesis: Linear Time Addition of Fibonacci Encodings.
-\end{itemize} 
 
-{\bf Carnegie Mellon University} \hfill Pittsburgh, PA\\
-{\it B.S. in Computer Science} \hfill Aug 2015 - May 2019 
-
-\begin{itemize}
-\item Minor: Discrete Mathematics and Logic.
-\item Graduated with University Honors.
-\end{itemize} 
 
 
 %\section{EMPLOYMENT}
@@ -125,9 +126,9 @@ Trung Dang, Jasper C.H. Lee, {\bf Maoyuan Song}, Paul Valiant.\\
 \item Learning-Augmented Algorithms for Online Linear and Semidefinite Programming.\\
 Elena Grigorescu, Young-San Lin, Sandeep Silwal, {\bf Maoyuan Song}, Samson Zhou.\\
 \emph{Conference on Neural Information Processing Systems (NeurIPS)} (2022). Selected for spotlight presentation.
-\item Linear Time Addition of Fibonacci Encodings.\\
-{\bf Maoyuan (Raymond) Song}.\\
-\emph{Master's Thesis} (2020). 
+%\item Linear Time Addition of Fibonacci Encodings.\\
+%{\bf Maoyuan (Raymond) Song}.\\
+%\emph{Master's Thesis} (2020). 
 %\item Application of Convolutional Neural Networks in Accent Identification.\\
 %Kevin Chionh, {\bf Maoyuan Song}, Yue Yin.\\
 %\emph{Project Report} (2018).
@@ -170,60 +171,13 @@ Learning-Augmented Algorithms for Online Linear and Semidefinite Programming.
 %\item Fast Multiplication using Discrete Fourier Transform, based on 15-751 TCS Toolkit.\\
 %Advanced Algorithm Reading Group at Purdue, September 2020.
 
+\section{OTHER \\ ACTIVITIES}
 
-\section{PROFESSIONAL \\ SERVICE}
+{\bf Carnegie Mellon University, Kingsford Labs} \hfill May 2018 - August 2018\\
+Developed and optimized \emph{salmon}, a genetic quantification and alignment software using machine learning. Introduced speed-ups via parallelization using NVIDIA's CUDA library in C++.
 
-{\bf External Conference Reviewer}
-
-\begin{itemize}
-\item SIAM Symposium on Simplicity in Algorithms (SOSA) 2025.
-\item The European Symposium on Algorithms (ESA) 2024.
-\item International Symposium on Theoretical Aspects of Comptuer Science (STACS) 2024.
-\item ACM Symposium on Theory of Computing (STOC) 2024, 2023.
-\item Conference on Neural Information Processing Systems (NeurIPS) 2024, 2022, 2021.
-\item Innovations in Theoretical Computer Science (ITCS) 2023, 2022.
-\item International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC) 2023, 2022.
-\item Journal of Artificial Intelligence Research (JAIR) 2022.
-\end{itemize}
-{\bf Organizer}
-
-\begin{itemize}
-\item TCS Reading Group at Purdue, Fall 2024, Fall 2023
-\item Theoretical Computer Science Seminar at Purdue, Fall 2023 - Fall 2022.
-\item Advanced Algorithm Reading Group at Purdue, Fall 2020.
-\end{itemize}
-
-
-\section{PROFESSIONAL \\ ACTIVITIES}
-
-{\bf Purdue University, Department of Computer Science}\\
-Graduate Teaching Assistant
-
-\begin{itemize}
-\item CS588 Randomized Algorithms \hfill Spring 2022
-\item CS584 Theory of Computation \hfill Fall 2021
-\item CS381 Introduction to the Analysis of Algorithms \hfill Fall 2024, Spring 2021
-\item CS251 Data Structures and Algorithms \hfill Fall 2020
-\end{itemize}
-{\bf Carnegie Mellon University, Department of Computer Science}\\
-Graduate Teaching Assistant
-
-\begin{itemize}
-\item 15-451 Algorithm Design and Analysis \hfill Spring 2020, Fall 2019
-\end{itemize}
-
-{\bf Kingsford Group, Carnegie Mellon University}\\
-Student researcher \hfill Summer 2018
-
-{\bf Carnegie Mellon University Computer Science Academy}\\
-Senior Project Member, Content Manager \hfill Spring 2018 - Spring 2020
-
-{\bf Carnegie Mellon University}\\
-Student-Led Course Instructor
-
-\begin{itemize}
-\item 98-205 StuCo: Introduction to Minecraft \hfill Fall 2016 - Spring 2019
-\end{itemize}
+{\bf Carnegie Mellon University, Computer Science Academy} \hfill January 2018 - May 2020\\
+Participated in the design and development of CMU Computer Science Academy, a university-sponsored online curriculum platform for K-12 computer science education. Visited six highschools in the Greater Pittsburgh area as practical and educational support specialist.
 
 \section{AWARDS}
 {\bf Purdue Research Fundation Ross-Lynn Research Scholars Grant}. \hfill Fall~2022
