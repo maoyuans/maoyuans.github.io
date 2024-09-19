@@ -28,7 +28,7 @@ Fortunately there have yet to be one.
 > 宇宙终将死去，生命也不复存在，但知识将会贯穿于时间传承下去。Outer Wilds就是这样一个在宇宙终结的时刻寻找答案的浪漫的故事。 我很想去细讲它的美妙之处，但我又很希望可以完全忘记我见过的所有东西，从第一天的凌晨重新开始玩这个游。这是我了解过的最美妙的探索故事。所以请务必不要去了解Outer Wilds，带着完全的无知去探索这个世界吧。
 - Risk of Rain 2
 - A Short Hike
-
+- Return of the Obra Dinn
 
 ## 9
 
