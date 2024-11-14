@@ -15,7 +15,7 @@ July 2023. Kenai Fjords National Park, Alaska.
 
 I am a PhD candidate in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University. I am fortunate to be co-advised by [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
 
-My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, recent projects concern [learning-augmented algorithms](https://algorithms-with-predictions.github.io/) and statistical mean estimation. I like to describe my field of interest as "classical algorithms that can facilitate or be facilitated by machine learning".
+My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, recent projects concern [learning-augmented algorithms](https://algorithms-with-predictions.github.io/) and statistical mean estimation. I like to describe my field of interest as "classical algorithms that can facilitate or be facilitated by machine learning" - "Algorithms ***for*** machine learning", for short. Read more about my research interests [here](research).
 
 Prior to joining Purdue, I received my master's degree in computer science at [Carnegie Mellon University](https://www.cs.cmu.edu/) in May 2020, advised by [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/). I also received my bachelor's degree in computer science at Carnegie Mellon University in May 2019, with a minor in discrete mathematics.
 
@@ -25,7 +25,6 @@ I am also passionate about education. I worked as a teaching assistant for multi
 
 In my free time, I take interest in game design and storytelling. I am in particular interested in exploring and experiencing video game as a media of art, and various narrative techniques of independent games. Currently, I am designing a rogue-like deck-building dungeon crawler game with a friend. As a hobbyist writer and storyteller, I am writing a homebrew world setting and campaigns for Dungeons and Dragons (D&D), and am hosting campaigns for my friends.
 
-
 ---
 
-*Last updated at 22:48 07/09/2024.*
+*Last updated at 22:48 11/13/2024.*

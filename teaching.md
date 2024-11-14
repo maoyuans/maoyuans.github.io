@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Teaching
-nav_order: 3
+nav_order: 4
 ---
 
 # Teaching
 
 At Purdue:
+- Fall 2024: Teaching assistant for CS381 Introduction to the Analysis of Algorithms.
 - Spring 2022: Teaching assistant for CS588 Randomized Algorithms.
 - Fall 2021: Teaching assistant for [CS584 Theory of Computation](https://www.cs.purdue.edu/homes/egrigore/CS584FT21/).
 - Spring 2021: Teaching assistant for CS381 Introduction to the Analysis of Algorithms.

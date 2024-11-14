@@ -40,6 +40,8 @@ Fortunately there have yet to be one.
 - Carrion
 > You get to play as a evil Lovecraftian flying spaghetti monster.
 - Lil Gator Game
+- Outer Wilds: Echoes of the Eye
+> 真浪漫啊，就和四年前一样，在宇宙终结时找到了无数文明跨越了几百万年想要寻找的答案，想要探索的未知。
 
 ## 8.5
 
