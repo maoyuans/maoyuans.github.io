@@ -6,7 +6,7 @@ nav_order: 7
 
 # TCS Reading Group at Purdue
 
-I am organizing the TCS reading group at Purdue for Spring 2025 semester, together with [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar), Vatsal Jha, and Arnav Burudgunte. 
+I am organizing the TCS reading group at Purdue for Spring 2025 semester, together with [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar) (kumar410), Vatsal Jha (jha36), and Arnav Burudgunte (aburudgu). 
 
 **Meeting time and location:** Wednesdays at **12:30** in **Lawson 3102** unless specified otherwise.
 
