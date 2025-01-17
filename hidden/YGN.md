@@ -63,6 +63,7 @@ Fortunately there have yet to be one.
 - Dredge
 - I am Dead
 > ...Thus I really liked the game. I cannot say the same for others, but if you like to read stories, piece together details written down not in words but in finer things, then this game will certainly invoke your thoughts.
+- Crow Country
 
 
 ## 7.5

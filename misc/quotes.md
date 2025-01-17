@@ -39,3 +39,9 @@ nav_exclude: false
 > And that's when art's not a luxury, it's actually sustenance. We need it.
 
 -- **Ethan Hawke**, *Give your self permission to be creative, TED*.
+
+---
+
+> I think that when loneliness really gets into you, it doesn't ever let you go, even when you're no longer alone. I feel it still, even when I'm sitting around the table with the Hex, laughing and drinking. I'm happy. I'm with everyone. But it's there. Like someone removed a kidney or a rib from me once, a long time ago. A hollowness that aches a little on rainy days.
+
+-- *Warframe: 1999*.

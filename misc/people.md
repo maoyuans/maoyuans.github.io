@@ -43,7 +43,7 @@ Feel free to remind me if I missed anyone.*
 <details markdown="block">
 <summary>Expand</summary>
 
-- [Elena Grigorescu](https://www.cs.purdue.edu/homes/egrigore/) 
+- [Elena Grigorescu](https://cs.uwaterloo.ca/~elena-g/) 
 - [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/)
 - [Young-San Lin](https://mbs.edu/faculty-and-research/faculty/young-san-lin)
 - [Samson Zhou](https://samsonzhou.github.io/)
