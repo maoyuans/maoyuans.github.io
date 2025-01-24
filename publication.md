@@ -11,15 +11,17 @@ nav_order: 3
 
 # Publication
 
-## 2024
+## 2025
 
 - **Learning-Augmented Algorithms for Online Concave Packing and Convex Covering Problems**.  
 Elena Grigorescu, Young-San Lin, *Maoyuan Song*.  
-In submission. [[arXiv]](https://arxiv.org/abs/2411.08332)  
+AISTATS 2025. [[arXiv]](https://arxiv.org/abs/2411.08332)  
 Merge of:
   - **Learning-Augmented Algorithms for Online Covering Programs with Convex Objectives**.  
   - **A Simple Learning-Augmented Algorithm for Online Packing with Concave Objectives**.  
   [[arXiv]](https://arxiv.org/abs/2406.03574)
+
+## 2024
 
 - **All-Purpose Mean Estimation over $$\mathbb{R}$$: Optimal Sub-Gaussianity with Outlier Robustness and Low Moments Performance**.  
 Jasper C.H. Lee, Walter McKelvie, *Maoyuan Song*, Paul Valiant.  

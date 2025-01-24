@@ -8,6 +8,10 @@ nav_order: 5
 
 I write haphazardly, about topics academic or philosophical in nature. Feel free to take a look.
 
+### 2025
+
+- **[仪式感 - Ceremonials](/blog/2025-01-23.md)**. Jan 23 2025.
+
 ### 2024
 
 - **[(Fahrenheit) 451](/blog/2024-02-26.md) ([中文版](/blog/2024-02-26-chn.md))**, a (book) review. Feb 27 2024.
