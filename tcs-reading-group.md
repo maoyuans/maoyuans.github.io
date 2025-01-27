@@ -24,9 +24,9 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Jan 22:** [Hongao Wang](https://phijack.github.io/) on *A Theory of Optimistically Universal Online Learnability for General Concept Classes*.
 
-**Jan 29:** [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar).
+**Jan 29:** [Raymond Song](https://maoyuans.github.io) on *Instance-Dependent Optimality in Mean Estimation*.
 
-**Feb 5:**
+**Feb 5:** [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar).
 
 **Feb 12:**
 
