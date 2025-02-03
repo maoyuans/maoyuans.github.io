@@ -26,9 +26,9 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Jan 29:** [Raymond Song](https://maoyuans.github.io) on *Instance-Dependent Optimality in Mean Estimation*.
 
-**Feb 5:** [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar).
+**Feb 5:** ---
 
-**Feb 12:**
+**Feb 12:** [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar).
 
 **Feb 19:**
 
