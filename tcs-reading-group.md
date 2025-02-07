@@ -28,13 +28,13 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Feb 5:** ---
 
-**Feb 12:** [Nithish Kumar](https://sites.google.com/view/nithishkumarkumar).
+**Feb 12:** Shubhankar Varshney on *An Introduction to Computational Topology*.
 
-**Feb 19:**
+**Feb 19:** [Arvind Ramaswami](https://arvindr9.github.io/).
 
-**Feb 26:**
+**Feb 26:** [Yufan Huang](https://luotuoqingshan.github.io/).
 
-**Mar 5:**
+**Mar 5:** [Abhijeet Vyas](https://sites.google.com/view/abhijeet-vyas/home).
 
 **Mar 12:**
 
