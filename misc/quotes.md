@@ -8,6 +8,12 @@ nav_exclude: false
 
 # Quotes
 
+> If we lived forever, maybe we'd have time to understand things. But as it is, I think the best we can do is try to open our eyes, and appreciate how strange and brief all of this is.
+
+-- *What Remains of Edith Finch*
+
+---
+
 > Medicine, law, business, engineering, these are noble pursuits, and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for.
 
 -- *Dead Poet Society* 

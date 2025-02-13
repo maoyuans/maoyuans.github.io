@@ -36,17 +36,17 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Mar 5:** [Abhijeet Vyas](https://sites.google.com/view/abhijeet-vyas/home).
 
-**Mar 12:**
+**Mar 12:** [**Purdue CS Graduate Symposium**](https://www.cs.purdue.edu/gsa/symposium.html).
 
-**Mar 19:**
+**Mar 19:** Spring break.
 
 **Mar 26:**
 
-**Apr 2:**
+**Apr 2:** **Theory Seminar**: Yuri Makarychev (TTIC).
 
 **Apr 9:**
 
-**Apr 16:**
+**Apr 16:** [Seunghoon Lee](https://lee2856.github.io/) on *A Tight Lower Bound on the TdScrypt Trapdoor Memory-Hard Function*.
 
 **Apr 23:**
 
