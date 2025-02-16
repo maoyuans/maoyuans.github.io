@@ -16,7 +16,7 @@ TCS reading group is a presentation/seminar series oriented towards theory stude
 
 We are also experimenting with the idea of following a course outside of Purdue that may be interesting to you. This semester, we are recommending [ECS 189A: Sublinear Algorithms for Big Data](https://jasperchlee.github.io/courses/sublinear/F24/index.html) by Jasper Lee at UC Davis. If you don't have any papers in mind to present, but want to give a casual talk about any of these topics, reach out to us as well!
 
-**We also have free coffee** (hopefully), graciously sponsored by faculty regulars of the reading group.
+**We also have free coffee** (hopefully)!
 
 See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the more official seminar series.
 
@@ -30,7 +30,7 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Feb 12:** Shubhankar Varshney on *An Introduction to Computational Topology*.
 
-**Feb 19:** [Arvind Ramaswami](https://arvindr9.github.io/).
+**Feb 19:** [Arvind Ramaswami](https://arvindr9.github.io/) on *Sample Compression Scheme Reductions*.
 
 **Feb 26:** [Yufan Huang](https://luotuoqingshan.github.io/).
 
@@ -40,7 +40,7 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Mar 19:** Spring break.
 
-**Mar 26:**
+**Mar 26:** Liangkun Liu.
 
 **Apr 2:** **Theory Seminar**: Yuri Makarychev (TTIC).
 
