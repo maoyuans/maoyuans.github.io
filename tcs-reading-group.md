@@ -32,19 +32,19 @@ See also: [Theory Seminar at Purdue](https://theorypurdue.wordpress.com/), the m
 
 **Feb 19:** [Arvind Ramaswami](https://arvindr9.github.io/) on *Sample Compression Scheme Reductions*.
 
-**Feb 26:** [Yufan Huang](https://luotuoqingshan.github.io/).
+**Feb 26:** [Yufan Huang](https://luotuoqingshan.github.io/) on *Faster Single-Source Shortest Paths with Negative Real Weights via Proper Hop Distance*.
 
-**Mar 5:** [Abhijeet Vyas](https://sites.google.com/view/abhijeet-vyas/home).
+**Mar 5:** [Abhijeet Vyas](https://sites.google.com/view/abhijeet-vyas/home) on *Beyond First-Order Methods for Non-Convex Non-Concave Min-Max Optimization*.
 
 **Mar 12:** [**Purdue CS Graduate Symposium**](https://www.cs.purdue.edu/gsa/symposium.html).
 
 **Mar 19:** Spring break.
 
-**Mar 26:** Liangkun Liu.
+**Mar 26:** Liangkun Liu on *Instance Optimal Approach for Identity Testing*.
 
 **Apr 2:** **Theory Seminar**: Yuri Makarychev (TTIC).
 
-**Apr 9:**
+**Apr 9:** [Eric Samperton](https://www.math.purdue.edu/~esampert/) on *Towards a complexity-theoretic dichotomy theorem for TQFT invariants*.
 
 **Apr 16:** [Seunghoon Lee](https://lee2856.github.io/) on *A Tight Lower Bound on the TdScrypt Trapdoor Memory-Hard Function*.
 
