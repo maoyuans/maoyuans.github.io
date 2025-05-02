@@ -16,7 +16,7 @@ nav_order: 3
 - **All-Purpose Mean Estimation over $$\mathbb{R}$$: Optimal Sub-Gaussianity with Outlier Robustness and Low Moments Performance**.  
 Jasper C.H. Lee, Walter McKelvie, *Maoyuan Song*, Paul Valiant.  
 ICML 2025.  
-Selected for spotlight presentation.
+Selected for spotlight poster.
 
 - **Untrusted Predictions and Mean Estimation: Machine-Learning Primitives from Data-Dependent Perspectives**.  
 *Maoyuan Song*.  
