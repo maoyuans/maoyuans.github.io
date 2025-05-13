@@ -29,6 +29,8 @@ Fortunately there have yet to be one.
 - Risk of Rain 2
 - A Short Hike
 - Return of the Obra Dinn
+- Pentiment
+> 这是一个讲述宗教，艺术，时间，与人性的交织的故事。我们做出的每一个决定，无论是关于他人还是自己，虽然并无对错，但都会在时间下游的某些时刻再次浮现。
 
 ## 9
 
@@ -42,6 +44,11 @@ Fortunately there have yet to be one.
 - Lil Gator Game
 - Outer Wilds: Echoes of the Eye
 > 真浪漫啊，就和四年前一样，在宇宙终结时找到了无数文明跨越了几百万年想要寻找的答案，想要探索的未知。
+- Blue Prince
+> 一个非常，非常精美的解谜游戏 - 如同outer wilds一样，很多地方都暗藏了各种信息，对于一个puzzlehunt爱好者（我）来说太上瘾了。
+- Chicory: A Colorful Tale
+> 我自诩为一个“艺术家”，从写作的意义上，但绘画是我会敬而远之的载体。在想到要给一个漂白的世界绘画上色时，本来还有些打怵。但我觉得Chicory的核心是：艺术是过程，没有对错，只要为自己而画，画出来了，就是好的。
+
 
 ## 8.5
 
