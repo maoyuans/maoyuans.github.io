@@ -51,3 +51,15 @@ nav_exclude: false
 > I think that when loneliness really gets into you, it doesn't ever let you go, even when you're no longer alone. I feel it still, even when I'm sitting around the table with the Hex, laughing and drinking. I'm happy. I'm with everyone. But it's there. Like someone removed a kidney or a rib from me once, a long time ago. A hollowness that aches a little on rainy days.
 
 -- *Warframe: 1999*.
+
+---
+
+> People might bring up Vincent van Gogh as an example of a painter who did great work in spite of, or because of, his suffering. I like to think that van Gogh would have been even more prolific and even greater if he wasn't so restricted by the things tormenting him. I don't think it was pain that made him so great, I think painting brought him whatever happiness he had.
+
+-- *David Lynch*
+
+---
+
+> Sometimes entertainment is an overrated function of art. Sometimes being maid uncomfortable is the point.
+
+-- *Simon Peggs*
