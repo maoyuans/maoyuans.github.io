@@ -8,6 +8,8 @@ nav_order: 5
 
 I write haphazardly, about topics academic or philosophical in nature. Feel free to take a look.
 
+- **[深夜遐思 - Random Musings](/blog/musings.md)**.
+
 ### 2025
 
 - **[仪式感 - Ceremonials](/blog/2025-01-23.md)**. Jan 23 2025.

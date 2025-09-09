@@ -13,10 +13,14 @@ nav_order: 3
 
 ## 2025
 
+- **An Upper Bound for Interactive ECCs with Separate Budgets**.  
+Shreya Nasa, *Maoyuan Song*.
+Allerton 2025.
+
 - **All-Purpose Mean Estimation over $$\mathbb{R}$$: Optimal Sub-Gaussianity with Outlier Robustness and Low Moments Performance**.  
 Jasper C.H. Lee, Walter McKelvie, *Maoyuan Song*, Paul Valiant.  
 ICML 2025.  
-Selected for spotlight poster.
+Selected for ***oral presentation***.
 
 - **Untrusted Predictions and Mean Estimation: Machine-Learning Primitives from Data-Dependent Perspectives**.  
 *Maoyuan Song*.  

@@ -56,10 +56,16 @@ nav_exclude: false
 
 > People might bring up Vincent van Gogh as an example of a painter who did great work in spite of, or because of, his suffering. I like to think that van Gogh would have been even more prolific and even greater if he wasn't so restricted by the things tormenting him. I don't think it was pain that made him so great, I think painting brought him whatever happiness he had.
 
--- *David Lynch*
+-- **David Lynch**.
 
 ---
 
 > Sometimes entertainment is an overrated function of art. Sometimes being maid uncomfortable is the point.
 
--- *Simon Peggs*
+-- **Simon Peggs**.
+
+---
+
+> Dearest, I beg of you, sleep properly and go for walks.
+
+-- **Franz Kafka**.

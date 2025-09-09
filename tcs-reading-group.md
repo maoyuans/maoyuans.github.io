@@ -2,6 +2,7 @@
 layout: default
 title: TCS Reading Group
 nav_order: 7
+nav_exclude: true
 ---
 
 # TCS Reading Group at Purdue
