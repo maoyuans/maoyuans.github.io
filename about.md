@@ -13,8 +13,6 @@ July 2023. Kenai Fjords National Park, Alaska.
 
 # About
 
-I am a researcher in Huawei's [Taylor Lab](https://www.tcs-lab.com/) (TCS Lab) at Shanghai, China.
-
 I obtained my PhD degree in the [Computer Science Department](https://www.cs.purdue.edu/) at Purdue University in May 2025. I was fortunate to be co-advised by [Elena Grigorescu](https://cs.uwaterloo.ca/~elena-g/) and [Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/).
 
 My research interests lie in theoretical computer science, across subdisciplines including approximation algorithms, online algorithms, complexity theory, and possibly learning theory. More specifically, recent projects concern [learning-augmented algorithms](https://algorithms-with-predictions.github.io/) and statistical mean estimation. I like to describe my field of interest as "classical algorithms that can facilitate or be facilitated by machine learning" - "Algorithms ***for*** machine learning", for short. Read more about my research interests [here](research).
